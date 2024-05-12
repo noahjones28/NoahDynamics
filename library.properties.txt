@@ -1,0 +1,9 @@
+name=NoahDynamics
+version=1.0.0
+author=Noah Jones
+maintainer=Noah Jones
+sentence=A library for moving things
+paragraph=
+category=Uncategorized
+url=https://github.com/noahjones28/NoahDynamics
+architectures=*
